@@ -9,7 +9,7 @@
 #EN/SR language
 #after 3 login attempts user is blocked for 10 minutes
 
-![A](https://ibb.co/YWtZtfq)
+![A](https://i.ibb.co/Qc6d6Y1/add-Post-Admin.png)
 ![B](https://ibb.co/xYnR3Fr)
 ![C](https://ibb.co/f1c3G5c)
 ![D](https://ibb.co/x7B5GJY)
