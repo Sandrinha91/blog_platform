@@ -1,0 +1,11 @@
+{
+    "autoload":{
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "jasongrimes/paginator": "~1.0"
+    }
+}
